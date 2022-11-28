@@ -28,3 +28,5 @@ watchdog
 regex
 dbus-python
 notify2
+image
+colorama
